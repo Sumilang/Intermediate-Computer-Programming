@@ -1,13 +1,26 @@
 package week3;
 
-public class NumberTriangle {
-    public static void main(String[] args) {
-        for (int row = 1; row <= 5; row++) {        // rows 1 → 5
-            for (int col = 1; col <= row; col++) {  // print 1 → row
-                System.out.print(col + " ");
-            }
-            System.out.println();                   // move to next line
-        }
+public class Print {
+public static void main(String[] args) {
+        
+        int a=10;
+        float b=12.55f;
+        char c='A';
+        String str="Hello";
+        
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(str);
+        
+        
+        /*int x=10,y=20;
+        System.out.println(x+y);
+        System.out.println("Number is " +y);
+        System.out.println(x+y+" sum");
+        System.out.println("sum "+(x+y));
+        System.out.println("sum of "+x+" and "+y+" is "+(x+y))*/;
     }
+    
 
 }

@@ -1,10 +1,12 @@
 package week3;
 
-public class ForCount {
+public class NestedForPairs {
 	public static void main(String[] args) {
-        // for(initialization; condition; update)
-        for (int i = 1; i <= 5; i++) {
-            System.out.println(i);
+        for (int row = 1; row <= 5; row++) {          // outer loop: rows
+            for (int col = 1; col <= 5; col++) {      // inner loop: columns
+                System.out.print("(" + row + "," + col + ") ");
+            }
+            System.out.println(); // move to the next line after each row
         }
     }
 

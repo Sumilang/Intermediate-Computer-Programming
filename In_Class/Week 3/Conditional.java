@@ -1,17 +1,23 @@
 package week3;
 
-public class BreakDemo {
-	public static void main(String[] args) {
-        for (int i = 1; i <= 10; i++) {
-            System.out.println("Checking number: " + i);
-
-            if (i == 5) {                // condition to stop early
-                System.out.println("Found 5 – breaking out of the loop!");
-                break;                   // exits the for-loop immediately
-            }
+public class Conditional {
+	public static void main(String[] args) 
+    {
+        int a=5,b=15,c=4;
+        
+        if(a>b && a>c)
+        {
+            System.out.println(a);
         }
-
-        System.out.println("Loop ended.");
-    }
+        else if(b>c)
+        {
+            System.out.println(b);
+        }
+        else
+        {
+            System.out.println(c);
+        }
+        
+    }   
 
 }

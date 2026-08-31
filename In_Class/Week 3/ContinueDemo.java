@@ -1,23 +1,14 @@
 package week3;
 
-public class Conditional {
-	public static void main(String[] args) 
-    {
-        int a=5,b=15,c=4;
-        
-        if(a>b && a>c)
-        {
-            System.out.println(a);
+public class ContinueDemo {
+	public static void main(String[] args) {
+        for (int i = 1; i <= 10; i++) {
+            if (i % 2 == 0) {
+                continue; // skip the rest of the loop body for even numbers
+            }
+            System.out.println("Odd number: " + i);
         }
-        else if(b>c)
-        {
-            System.out.println(b);
-        }
-        else
-        {
-            System.out.println(c);
-        }
-        
-    }   
+        System.out.println("Done");
+    }
 
 }

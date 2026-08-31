@@ -1,16 +1,20 @@
 package week3;
 
-public class Printing2 {
-	public static void main(String[] args) {
-        /*int a=10;//a=-10
-        System.out.printf("%05d",a);*/
+public class SwitchPractice {
+	public static void main(String[] args) 
+    {
+        String str="2";
         
-        float a=312.45f;//3.45f
-        System.out.printf("%6f",a);
-        
-        String str="Java";
-        System.out.printf("%20s",str);
-        
+        switch(str)
+        {
+            case "1": System.out.println("One");
+                    break;
+            case "2": System.out.println("Two");
+                    break;
+            case "3": System.out.println("Three");
+                    break;
+            default : System.out.println("Invalid");       
+        }
     }
 
 }
