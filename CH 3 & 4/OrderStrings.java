@@ -15,6 +15,5 @@ public class OrderStrings {
         else {
             System.out.println(secondString + " " + firstString);
       }
-
    }
 }
