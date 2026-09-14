@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Capital {
 
     public static void printCapital(String capital, String region) {
-        System.out.println(capital + " is " + region + "'s capital.");
+        System.out.println("** " + capital + " **\n" + "is " + region + "'s capital.");
     }
 
    public static void main(String[] args) {
