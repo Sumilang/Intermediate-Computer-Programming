@@ -1,0 +1,891 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AgeChecker",
+            "request": "launch",
+            "mainClass": "AgeChecker",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "AppendString",
+            "request": "launch",
+            "mainClass": "AppendString",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "ArrayMethods",
+            "request": "launch",
+            "mainClass": "ArrayMethods",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "ArrayModification",
+            "request": "launch",
+            "mainClass": "ArrayModification",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "ArrayUpdate",
+            "request": "launch",
+            "mainClass": "ArrayUpdate",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "BudgetAnalysis",
+            "request": "launch",
+            "mainClass": "BudgetAnalysis",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "BuildNewArray",
+            "request": "launch",
+            "mainClass": "BuildNewArray",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "CH_11.Interfaces.Person",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "Person(1)",
+            "request": "launch",
+            "mainClass": "CH_11.Interfaces2.Person",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "Person(2)",
+            "request": "launch",
+            "mainClass": "CH_11.Interfaces3.Person",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "CaesarCipher",
+            "request": "launch",
+            "mainClass": "CaesarCipher",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "CalcMiles",
+            "request": "launch",
+            "mainClass": "CalcMiles",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "Capital",
+            "request": "launch",
+            "mainClass": "Capital",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "Capital2",
+            "request": "launch",
+            "mainClass": "Capital2",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "CashRecords",
+            "request": "launch",
+            "mainClass": "CashRecords",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "CenturiesRanges",
+            "request": "launch",
+            "mainClass": "CenturiesRanges",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "VehicleDerivation",
+            "request": "launch",
+            "mainClass": "Ch_8.Derived_class.VehicleDerivation",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "ClassOverridingEx",
+            "request": "launch",
+            "mainClass": "Ch_8.Overriding.ClassOverridingEx",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "CallWatch",
+            "request": "launch",
+            "mainClass": "Ch_8.Polymorphism_and_method.CallWatch",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "CallEmployee",
+            "request": "launch",
+            "mainClass": "Ch_8.Polymorphism_and_method2.CallEmployee",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "CallCar",
+            "request": "launch",
+            "mainClass": "Ch_8.output.CallCar",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "CherriesCount",
+            "request": "launch",
+            "mainClass": "CherriesCount",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "ChestHeight",
+            "request": "launch",
+            "mainClass": "ChestHeight",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "CombineArrays",
+            "request": "launch",
+            "mainClass": "CombineArrays",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "CompilationError",
+            "request": "launch",
+            "mainClass": "CompilationError",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "ConvertNegative",
+            "request": "launch",
+            "mainClass": "ConvertNegative",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "CourseMethodOverload",
+            "request": "launch",
+            "mainClass": "CourseMethodOverload",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "CowDetails",
+            "request": "launch",
+            "mainClass": "CowDetails",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "CubeCalculations",
+            "request": "launch",
+            "mainClass": "CubeCalculations",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "DeskSupplies",
+            "request": "launch",
+            "mainClass": "DeskSupplies",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "DiceRoll",
+            "request": "launch",
+            "mainClass": "DiceRoll",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "ExtraCredit",
+            "request": "launch",
+            "mainClass": "ExtraCredit",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "FishDetails",
+            "request": "launch",
+            "mainClass": "FishDetails",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "FoodPurchases",
+            "request": "launch",
+            "mainClass": "FoodPurchases",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "ForksCount",
+            "request": "launch",
+            "mainClass": "ForksCount",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "Fruits",
+            "request": "launch",
+            "mainClass": "Fruits",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "GenerateRandomNumbers",
+            "request": "launch",
+            "mainClass": "GenerateRandomNumbers",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "GenerateRandomNumbers2",
+            "request": "launch",
+            "mainClass": "GenerateRandomNumbers2",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "GenerateRandomNumbers3",
+            "request": "launch",
+            "mainClass": "GenerateRandomNumbers3",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "GravityCalculation",
+            "request": "launch",
+            "mainClass": "GravityCalculation",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "GroupInfo",
+            "request": "launch",
+            "mainClass": "GroupInfo",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "IfElse",
+            "request": "launch",
+            "mainClass": "IfElse",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "IntegerNumberConverter",
+            "request": "launch",
+            "mainClass": "IntegerNumberConverter",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "KilolitersConverter",
+            "request": "launch",
+            "mainClass": "KilolitersConverter",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "BasicDerivedOverride",
+            "request": "launch",
+            "mainClass": "Lab.Basic_derived.BasicDerivedOverride",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "CoffeeShop",
+            "request": "launch",
+            "mainClass": "Lab.Lab3.CoffeeShop",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "PackageStatus",
+            "request": "launch",
+            "mainClass": "Lab.Lab3.PackageStatus",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "ParkingFee",
+            "request": "launch",
+            "mainClass": "Lab.Lab3.ParkingFee",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "JaggedExamScores",
+            "request": "launch",
+            "mainClass": "Lab.Lab4.JaggedExamScores",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "LibraryBookRatings",
+            "request": "launch",
+            "mainClass": "Lab.Lab4.LibraryBookRatings",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "displayTemperatures",
+            "request": "launch",
+            "mainClass": "Lab.Lab4.displayTemperatures",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "BankAccount",
+            "request": "launch",
+            "mainClass": "Lab.Lab5.BankAccount",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "ShoppingCalculator",
+            "request": "launch",
+            "mainClass": "Lab.Lab5.ShoppingCalculator",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "StudentMarksLookup",
+            "request": "launch",
+            "mainClass": "Lab.Lab5.StudentMarksLookup",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Lab.Lab6.Main",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "CommandLineGreeter",
+            "request": "launch",
+            "mainClass": "Lab.Lab7.CommandLineGreeter",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "GradeScaler",
+            "request": "launch",
+            "mainClass": "Lab.Lab7.GradeScaler",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "StudentInfoParser",
+            "request": "launch",
+            "mainClass": "Lab.Lab7.StudentInfoParser",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "LengthMethods",
+            "request": "launch",
+            "mainClass": "LengthMethods",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "MassController",
+            "request": "launch",
+            "mainClass": "MassController",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "MatchingChar",
+            "request": "launch",
+            "mainClass": "MatchingChar",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "MathMethods",
+            "request": "launch",
+            "mainClass": "MathMethods",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "MathMethods2",
+            "request": "launch",
+            "mainClass": "MathMethods2",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "MathMethods3",
+            "request": "launch",
+            "mainClass": "MathMethods3",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "MeasurementConverter",
+            "request": "launch",
+            "mainClass": "MeasurementConverter",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "MembershipFinder",
+            "request": "launch",
+            "mainClass": "MembershipFinder",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "MilligramsToGrams",
+            "request": "launch",
+            "mainClass": "MilligramsToGrams",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "ModifyArray",
+            "request": "launch",
+            "mainClass": "ModifyArray",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "MultIfElse",
+            "request": "launch",
+            "mainClass": "MultIfElse",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "NapkinsQuantity",
+            "request": "launch",
+            "mainClass": "NapkinsQuantity",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "NumSetComparison",
+            "request": "launch",
+            "mainClass": "NumSetComparison",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "NumberChecker",
+            "request": "launch",
+            "mainClass": "NumberChecker",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "NumberComparisons",
+            "request": "launch",
+            "mainClass": "NumberComparisons",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "NumberComputation",
+            "request": "launch",
+            "mainClass": "NumberComputation",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "NumberDifference",
+            "request": "launch",
+            "mainClass": "NumberDifference",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "Office",
+            "request": "launch",
+            "mainClass": "Office",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "OrangeCount",
+            "request": "launch",
+            "mainClass": "OrangeCount",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "OrderStrings",
+            "request": "launch",
+            "mainClass": "OrderStrings",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "PenSurvey",
+            "request": "launch",
+            "mainClass": "PenSurvey",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "PrecedenceError",
+            "request": "launch",
+            "mainClass": "PrecedenceError",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "PrizeFinder",
+            "request": "launch",
+            "mainClass": "PrizeFinder",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "QuitScreen",
+            "request": "launch",
+            "mainClass": "QuitScreen",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "QuotientCalculator",
+            "request": "launch",
+            "mainClass": "QuotientCalculator",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "RandomGenerateNumbers",
+            "request": "launch",
+            "mainClass": "RandomGenerateNumbers",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "RectangleArea",
+            "request": "launch",
+            "mainClass": "RectangleArea",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "Relational",
+            "request": "launch",
+            "mainClass": "Relational",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "RemainingMinutes",
+            "request": "launch",
+            "mainClass": "RemainingMinutes",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "Result",
+            "request": "launch",
+            "mainClass": "Result",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "ResultCalculator",
+            "request": "launch",
+            "mainClass": "ResultCalculator",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "SafetyFeatures",
+            "request": "launch",
+            "mainClass": "SafetyFeatures",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "Score",
+            "request": "launch",
+            "mainClass": "Score",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "ScoreData",
+            "request": "launch",
+            "mainClass": "ScoreData",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "ScoreRecord",
+            "request": "launch",
+            "mainClass": "ScoreRecord",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "SentenceFromStrings",
+            "request": "launch",
+            "mainClass": "SentenceFromStrings",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "Sequencing",
+            "request": "launch",
+            "mainClass": "Sequencing",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "SimpleWhileLoop",
+            "request": "launch",
+            "mainClass": "SimpleWhileLoop",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "SleepHours",
+            "request": "launch",
+            "mainClass": "SleepHours",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "SpaceReplace",
+            "request": "launch",
+            "mainClass": "SpaceReplace",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "StringChecker",
+            "request": "launch",
+            "mainClass": "StringChecker",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "StringLength",
+            "request": "launch",
+            "mainClass": "StringLength",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "StringModification",
+            "request": "launch",
+            "mainClass": "StringModification",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "StringModification2",
+            "request": "launch",
+            "mainClass": "StringModification2",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "StudentCourse",
+            "request": "launch",
+            "mainClass": "StudentCourse",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "StudentCourses2",
+            "request": "launch",
+            "mainClass": "StudentCourses2",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "SumInRange",
+            "request": "launch",
+            "mainClass": "SumInRange",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "SumOfSelected",
+            "request": "launch",
+            "mainClass": "SumOfSelected",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "TaxRanges",
+            "request": "launch",
+            "mainClass": "TaxRanges",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "TeenagerDetector",
+            "request": "launch",
+            "mainClass": "TeenagerDetector",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "TemperatureChecker",
+            "request": "launch",
+            "mainClass": "TemperatureChecker",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "TemperatureConversion",
+            "request": "launch",
+            "mainClass": "TemperatureConversion",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "TemperatureConversion2",
+            "request": "launch",
+            "mainClass": "TemperatureConversion2",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "TicketCounter",
+            "request": "launch",
+            "mainClass": "TicketCounter",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "TollCalc",
+            "request": "launch",
+            "mainClass": "TollCalc",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "Tool",
+            "request": "launch",
+            "mainClass": "Tool",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "TravelTime",
+            "request": "launch",
+            "mainClass": "TravelTime",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "UnitTesting",
+            "request": "launch",
+            "mainClass": "UnitTesting",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "UniversityLocation",
+            "request": "launch",
+            "mainClass": "UniversityLocation",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "UniversityPopulation",
+            "request": "launch",
+            "mainClass": "UniversityPopulation",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "UpdateNumberOfUsers",
+            "request": "launch",
+            "mainClass": "UpdateNumberOfUsers",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "ValueFinder",
+            "request": "launch",
+            "mainClass": "ValueFinder",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "ValuePrinter",
+            "request": "launch",
+            "mainClass": "ValuePrinter",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "ValuePrinter2",
+            "request": "launch",
+            "mainClass": "ValuePrinter2",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "ValueReader",
+            "request": "launch",
+            "mainClass": "ValueReader",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "VolumeConversion",
+            "request": "launch",
+            "mainClass": "VolumeConversion",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        },
+        {
+            "type": "java",
+            "name": "ifElseOutput",
+            "request": "launch",
+            "mainClass": "ifElseOutput",
+            "projectName": "Intermediate-Computer-Programming_e88a985d"
+        }
+        
+    ]
+}
